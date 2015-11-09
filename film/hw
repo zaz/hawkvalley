@@ -47,7 +47,7 @@ window.JOT_fullyLoaded=!1;window.JOT_formatRelativeToNow=function(c,a){var b=((n
 <style type="text/css">
 </style>
 <link rel="stylesheet" type="text/css" href="http://www.gstatic.com/sites/p/ca0925/system/app/themes/sunset/standard-css-sunset-ltr-ltr.css" />
-<link rel="stylesheet" type="text/css" href="/_/rsrc/1446820998000/system/app/css/overlay.css?cb=sunset30a1350px%25185goog-ws-nosidenone30middlecenter" />
+<link rel="stylesheet" type="text/css" href="/_/rsrc/1446820998000/system/app/css/overlay.css" />
 <link rel="stylesheet" type="text/css" href="/_/rsrc/1446820998000/system/app/css/camelot/allthemes-view.css" />
 <!--[if IE]>
           <link rel="stylesheet" type="text/css" href="/system/app/css/camelot/allthemes%2die.css" />
@@ -70,7 +70,7 @@ window.JOT_fullyLoaded=!1;window.JOT_formatRelativeToNow=function(c,a){var b=((n
 <div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper" style="height:auto;">
 <table id="sites-chrome-header" class="sites-layout-hbox-centered" cellspacing="0" style="height:auto;">
 <tr class="sites-header-primary-row" id="sites-chrome-userheader">
-<td id="sites-header-title" class="sites-header-title-centered sites-chrome-header-valign-middle" role="banner"><div class="sites-header-cell-buffer-wrapper"><a href="http://www.hawkvalley.co.uk/" id="sites-chrome-userheader-logo"><img id="logo-img-id" src="/_/rsrc/1399397651792/config/customLogo.gif?revision=9" alt="Hawk Valley Productions" class="sites-logo-centered sites-chrome-header-valign-middle " /></a><h2></h2></div></td>
+<td id="sites-header-title" class="sites-header-title-centered sites-chrome-header-valign-middle" role="banner"><div class="sites-header-cell-buffer-wrapper"><a href="http://www.hawkvalley.co.uk/" id="sites-chrome-userheader-logo"><img id="logo-img-id" src="/_/rsrc/1399397651792/config/customLogo.gif" alt="Hawk Valley Productions" class="sites-logo-centered sites-chrome-header-valign-middle " /></a><h2></h2></div></td>
 </tr>
 <tr class="sites-header-secondary-row" id="sites-chrome-horizontal-nav">
 <td colspan="2" id="sites-chrome-header-horizontal-nav-container" role="navigation">
